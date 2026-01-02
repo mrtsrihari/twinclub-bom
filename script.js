@@ -88,8 +88,6 @@ currencySelect.addEventListener("change", () => {
         
         // Export and action buttons
         const excelBtn = document.getElementById('exportExcelBtn');
-        const pdfBtn = document.getElementById('exportPDFBtn');
-        const wordBtn = document.getElementById('exportWordBtn');
         const clearBtn = document.getElementById('clearBtn');
 
             // Currency change → recalculate totals
